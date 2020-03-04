@@ -1,0 +1,8 @@
+helm list --namespace=elk
+kubectl get ingress --namespace=elk
+kubectl describe ingress elasticsearch-master --namespace=elk
+helm install kibana elastic/kibana --namespace elk -f values.yaml
+kubectl --namespace=elk get pods -l "app=kibana"
+kubectl describe pods kibana-kibana-557b79fdd5-p77v6 --namespace elk
+kubectl logs -l app=kibana -n elk
+kubectl --namespace=elk get pods -l "app=kibana"
