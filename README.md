@@ -2,7 +2,7 @@
 
 Refer below YouTube vidoes to complete the excerise:
  
-<iframe src="https://www.youtube.com/embed/sGF6bOi1NfA" data-autoplay></iframe>
+<iframe data-src="https://www.youtube.com/embed/sGF6bOi1NfA?autoplay=1"></iframe>
  
 <b><u> Connect @ </u></b><br>
 <b> http://YouTube.com/DevopsGuru </b> <br>
