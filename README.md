@@ -1,6 +1,6 @@
 # How to install and configure Kibana on Kubernetes Cluster
 
-<font size="3" color="red"> CLICK on below image for YouTube video to complete the excerise: </font>
+<p style="color:red"> CLICK on below image for YouTube video to complete the excerise: </p>
 
 [![](http://img.youtube.com/vi/_Hj5dnCFXWg/0.jpg)](http://www.youtube.com/watch?v=_Hj5dnCFXWg "")
 
