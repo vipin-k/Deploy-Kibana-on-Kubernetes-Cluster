@@ -2,7 +2,7 @@
 
 Refer below YouTube vidoes to complete the excerise:
  
-[![](http://www.youtube.com/watch?v=sGF6bOi1NfA "")
+(http://www.youtube.com/watch?v=sGF6bOi1NfA "")
 
 <b><u> Connect @ </u></b><br>
 <b> http://YouTube.com/DevopsGuru </b> <br>
