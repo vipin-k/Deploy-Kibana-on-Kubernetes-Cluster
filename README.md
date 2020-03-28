@@ -2,8 +2,8 @@
 
 Refer below YouTube vidoes to complete the excerise:
  
-<iframe data-src="https://www.youtube.com/embed/sGF6bOi1NfA?autoplay=1"></iframe>
- 
+[![](http://img.youtube.com/vi/sGF6bOi1NfA/0.jpg)](http://www.youtube.com/watch?v=sGF6bOi1NfA "")
+
 <b><u> Connect @ </u></b><br>
 <b> http://YouTube.com/DevopsGuru </b> <br>
 <b> https://www.linkedin.com/in/vipinkumar-gupta/ </b> <br>
